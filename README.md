@@ -1,9 +1,3 @@
 # git repository for lecture
 
-shlblahblah
-sdkljdsaf
-dsalkjsd
-slakj
-수정시험
-
-haha
+- 깃 강의를 위한 Repository
